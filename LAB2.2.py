@@ -1,0 +1,6 @@
+line1 = "Hey, {name} Here!".format(name = "Adityaveer Singh")
+print(line1)
+line2 = "My SID is {sid}".format(sid = 22105055)
+print(line2)
+line3 = "I am from{dep} department and my CGPA is {cgpa}".format(dep = " ECE" , cgpa = "9.9")
+print(line3)
